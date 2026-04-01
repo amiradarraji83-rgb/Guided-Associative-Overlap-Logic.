@@ -39,6 +39,8 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 هذا المشروع مرخص بموجب **رخصة MIT**. يمنح الحق في استخدام وتعديل وتوزيع هذا المنطق، بشرط الإشارة إلى المؤلف الأصلي.
 
+​#cognitive-computing #contextual-memory #functional-amnesia #ai-architecture #semantic-anchoring #memory-persistence #llm-optimization
+
 ---
 **Author:** Amira Darraji (Rakiya)
 **Contact:** [LinkedIn Profile]
